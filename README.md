@@ -1,4 +1,0 @@
-munki
-=====
-
-Talentums munki-server
