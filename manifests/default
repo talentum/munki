@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>conditional_items</key>
+	<array>
+		<dict>
+			<key>condition</key>
+			<string>machine_type == "laptop"</string>
+			<key>managed_installs</key>
+			<array>
+				<string>vpn</string>
+			</array>
+		</dict>
+	</array>
+	<key>managed_installs</key>
+	<array>
+		<string>AdobeAIR</string>
+		<string>AdobeFlashPlayer</string>
+		<string>AdobeReader</string>
+		<string>Flip4Mac</string>
+		<string>Newspilot</string>
+		<string>Office</string>
+	</array>
+	<key>optional_installs</key>
+	<array>
+		<string>Dropbox</string>
+		<string>Firefox</string>
+		<string>GoogleChrome</string>
+		<string>GoogleEarth</string>
+		<string>Skype</string>
+	</array>
+</dict>
+</plist>

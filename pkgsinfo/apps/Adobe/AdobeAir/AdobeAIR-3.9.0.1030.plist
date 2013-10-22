@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>description</key>
+	<string>Adobe AIR</string>
+	<key>display_name</key>
+	<string>Adobe® Integrated Runtime</string>
+	<key>installed_size</key>
+	<integer>130806</integer>
+	<key>installer_item_hash</key>
+	<string>de5555f7ebea66c51fc7a0d19b14ad2e4c1eb8fd1caced7dd99e3fd2d4ce52e5</string>
+	<key>installer_item_location</key>
+	<string>apps/adobe/AdobeAir/AdobeAIR-3.9.0.1030.pkg</string>
+	<key>installer_item_size</key>
+	<integer>55154</integer>
+	<key>minimum_os_version</key>
+	<string>10.5.0</string>
+	<key>name</key>
+	<string>AdobeAIR</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>installed_size</key>
+			<integer>130806</integer>
+			<key>packageid</key>
+			<string>com.adobe.pkg.AIR</string>
+			<key>version</key>
+			<string>3.9.0.1030</string>
+		</dict>
+	</array>
+	<key>unattended_install</key>
+	<true/>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>update_for</key>
+	<array>
+		<string>foo</string>
+		<string>bar</string>
+	</array>
+	<key>version</key>
+	<string>3.9.0.1030</string>
+</dict>
+</plist>

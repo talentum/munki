@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdobeSetupType</key>
+	<string>ProductInstall</string>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>description</key>
+	<string>This update provides fixes in performance when working in high quality display mode.  In addition, it addresses non-meaningful errors about missing plug-ins, instead displaying a clear indication that the file is from a newer version. There are also general fixes in PDF export, text, font handling and others. 
+
+For a full list of resolved issues, please see the Adobe InDesign CS5.5 7.5.3 Release Notes at http://www.adobe.com/support/documentation/en/indesign_incopy/releasenotes.html. </string>
+	<key>display_name</key>
+	<string>AdobeÂ® InDesignÂ® CS5.5 7.5.3 update</string>
+	<key>installed_size</key>
+	<integer>129504</integer>
+	<key>installer_item_hash</key>
+	<string>20963fbe33b98edb9d5eab4724036461406d70caef7fe3ffe09728ca3b81d907</string>
+	<key>installer_item_location</key>
+	<string>apps/Adobe/CS5.5/Updates/AdobeInDesignCS5.5-7.5-7.5.3.333.dmg</string>
+	<key>installer_item_size</key>
+	<integer>28746</integer>
+	<key>installer_type</key>
+	<string>AdobeCS5PatchInstaller</string>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>/Library/Application Support/Adobe/Uninstall/{848BF4CC-7A2B-11E1-8A90-3F8CF24106A5}.db</string>
+			<key>type</key>
+			<string>file</string>
+		</dict>
+	</array>
+	<key>minimum_os_version</key>
+	<string>10.4.0</string>
+	<key>name</key>
+	<string>AdobeInDesignCS5.5_7.5_Update</string>
+	<key>payloads</key>
+	<array>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{848BF4CC-7A2B-11E1-8A90-3F8CF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5</string>
+			<key>installed_size</key>
+			<integer>106696</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{FE75A95E-7A2B-11E1-8037-B59BF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Base Files2</string>
+			<key>installed_size</key>
+			<integer>20744</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{6C8284D8-7A29-11E1-944F-9BDFF14106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (cs_CZ)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{86126670-7A29-11E1-B3CB-BB4CF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (da_DK)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{9B2A9424-7A29-11E1-83B9-854FF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (de_DE)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{B1C55C46-7A29-11E1-B4DE-4752F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (en_GB)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{C68C3E1A-7A29-11E1-A9D9-0F55F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (en_US)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{DB6DB688-7A29-11E1-B049-D157F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (es_ES)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{F03FF206-7A29-11E1-B3B5-935AF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (es_MX)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{07209C1E-7A2A-11E1-9EF9-5B5DF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (fi_FI)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{1D8C5DC6-7A2A-11E1-9CAC-1B60F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (fr_CA)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{328612EE-7A2A-11E1-BE46-DE62F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (fr_FR)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{49286448-7A2A-11E1-9A64-A065F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (hu_HU)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{5F534170-7A2A-11E1-A5B7-6068F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (it_IT)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{7496AE28-7A2A-11E1-86EB-296BF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (ja_JP)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{89E6CEDE-7A2A-11E1-B5B6-E96DF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (ko_KR)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{A07F0922-7A2A-11E1-B9E2-A970F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (nb_NO)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{B743B9A0-7A2A-11E1-81F1-6B73F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (nl_NL)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{CD2DADFC-7A2A-11E1-A3B6-2C76F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (pl_PL)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{E33DD2F2-7A2A-11E1-AD8C-F578F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (pt_BR)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{F9D61092-7A2A-11E1-AA5F-B57BF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (ru_RU)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{1075E20A-7A2B-11E1-A8F6-757EF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (sv_SE)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{27EE927E-7A2B-11E1-9945-3581F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (tr_TR)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{42184A0A-7A2B-11E1-B6C7-F583F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (uk_UA)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{57EF2FBA-7A2B-11E1-B268-BF86F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (zh_CN)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{6EB66524-7A2B-11E1-8309-7F89F24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Application Language Files (zh_TW)</string>
+			<key>installed_size</key>
+			<integer>86</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+		<dict>
+			<key>AdobeCode</key>
+			<string>{6AFE0576-7A2C-11E1-88D2-74AAF24106A5}</string>
+			<key>display_name</key>
+			<string>Adobe InDesign CS5.5 Common Base Files</string>
+			<key>installed_size</key>
+			<integer>0</integer>
+			<key>version</key>
+			<string>7.5.3.333</string>
+		</dict>
+	</array>
+	<key>uninstallable</key>
+	<false/>
+	<key>update_for</key>
+	<array>
+		<string>AdobeCS5.5DesignPremium</string>
+		<string>AdobeCS5.5DesignStandard</string>
+	</array>
+	<key>version</key>
+	<string>7.5.3.333</string>
+</dict>
+</plist>

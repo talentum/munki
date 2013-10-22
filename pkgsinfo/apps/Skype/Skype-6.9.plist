@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>description</key>
+	<string>Internet voice and video chat application</string>
+	<key>display_name</key>
+	<string>Skype</string>
+	<key>installer_item_hash</key>
+	<string>a39e568fd07bf23da4ebda1d77905302ff9f8b8afcac4b7243dcfef6ccc3afd2</string>
+	<key>installer_item_location</key>
+	<string>apps/Skype/Skype-6.9.dmg</string>
+	<key>installer_item_size</key>
+	<integer>38768</integer>
+	<key>installer_type</key>
+	<string>copy_from_dmg</string>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.skype.skype</string>
+			<key>CFBundleShortVersionString</key>
+			<string>6.9</string>
+			<key>CFBundleVersion</key>
+			<string>6.9.0.517</string>
+			<key>minosversion</key>
+			<string>10.6.0</string>
+			<key>path</key>
+			<string>/Applications/Skype.app</string>
+			<key>type</key>
+			<string>application</string>
+			<key>version_comparison_key</key>
+			<string>CFBundleShortVersionString</string>
+		</dict>
+	</array>
+	<key>items_to_copy</key>
+	<array>
+		<dict>
+			<key>destination_path</key>
+			<string>/Applications</string>
+			<key>source_item</key>
+			<string>Skype.app</string>
+		</dict>
+	</array>
+	<key>minimum_os_version</key>
+	<string>10.6.0</string>
+	<key>name</key>
+	<string>Skype</string>
+	<key>unattended_install</key>
+	<true/>
+	<key>uninstall_method</key>
+	<string>remove_copied_items</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>6.9</string>
+</dict>
+</plist>

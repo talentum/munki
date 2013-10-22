@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>description</key>
+	<string>Cisco VPN klient</string>
+	<key>display_name</key>
+	<string>AnyConnect Secure Mobility Client</string>
+	<key>installed_size</key>
+	<integer>12111</integer>
+	<key>installer_item_hash</key>
+	<string>17f5f43657b132b5fdee029085a5edfa062f3dab84a891e9dc0a8eda423144dc</string>
+	<key>installer_item_location</key>
+	<string>apps/VPNclient/anyconnect-macosx-3.1.02040.dmg</string>
+	<key>installer_item_size</key>
+	<integer>4742</integer>
+	<key>minimum_os_version</key>
+	<string>10.5.0</string>
+	<key>name</key>
+	<string>vpn</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>installed_size</key>
+			<integer>12111</integer>
+			<key>packageid</key>
+			<string>com.cisco.pkg.anyconnect.vpn</string>
+			<key>version</key>
+			<string>3.1.02040</string>
+		</dict>
+	</array>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>3.1.02040</string>
+</dict>
+</plist>

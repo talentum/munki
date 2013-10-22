@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>description</key>
+	<string>Managed Software Update application.</string>
+	<key>display_name</key>
+	<string>Managed Software Update</string>
+	<key>installed_size</key>
+	<integer>1512</integer>
+	<key>installer_item_hash</key>
+	<string>d7c608a587181c37bdb0294cf6e5524c41d4ecd97b2dea01406663c2ff9ed266</string>
+	<key>installer_item_location</key>
+	<string>munkitools/munkitools-latest-0.9.2.1840.0.dmg</string>
+	<key>installer_item_size</key>
+	<integer>889</integer>
+	<key>minimum_os_version</key>
+	<string>10.4.0</string>
+	<key>name</key>
+	<string>munkitools</string>
+	<key>package_path</key>
+	<string>munkitools-0.9.2.1841.0.mpkg/Contents/Packages/munkitools_app-3.5.2.1841.pkg</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>munkitools_app-3.5.2.1841.pkg</string>
+			<key>installed_size</key>
+			<integer>1512</integer>
+			<key>packageid</key>
+			<string>com.googlecode.munki.app</string>
+			<key>version</key>
+			<string>3.5.2.1841</string>
+		</dict>
+	</array>
+	<key>requires</key>
+	<array>
+		<string>munkitools_core</string>
+		<string>munkitools_launchd</string>
+	</array>
+	<key>unattended_install</key>
+	<true/>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>3.5.2.1841</string>
+</dict>
+</plist>

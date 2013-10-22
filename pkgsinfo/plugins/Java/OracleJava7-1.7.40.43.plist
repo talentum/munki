@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>description</key>
+	<string>Java SE Runtime Environment 7 enables support for running Java-powered applets and applications.</string>
+	<key>display_name</key>
+	<string>Oracle Java 7</string>
+	<key>installed_size</key>
+	<integer>147192</integer>
+	<key>installer_item_hash</key>
+	<string>4a515e91f5bfcf77f29681c4556b6d616a6f38958461d9f28403a1b89d87927d</string>
+	<key>installer_item_location</key>
+	<string>plugins/Java/OracleJava7-1.7.40.43.dmg</string>
+	<key>installer_item_size</key>
+	<integer>51717</integer>
+	<key>installs</key>
+	<array>
+		<dict>
+			<key>CFBundleShortVersionString</key>
+			<string>1.7.0_40</string>
+			<key>CFBundleVersion</key>
+			<string>10.40.2.43</string>
+			<key>path</key>
+			<string>/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/deploy/JavaControlPanel.prefPane</string>
+			<key>type</key>
+			<string>bundle</string>
+			<key>version_comparison_key</key>
+			<string>CFBundleShortVersionString</string>
+		</dict>
+	</array>
+	<key>minimum_os_version</key>
+	<string>10.7.3</string>
+	<key>name</key>
+	<string>OracleJava7</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>installed_size</key>
+			<integer>147192</integer>
+			<key>packageid</key>
+			<string>com.oracle.jre</string>
+			<key>version</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+	<key>unattended_install</key>
+	<true/>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>1.7.40.43</string>
+</dict>
+</plist>
